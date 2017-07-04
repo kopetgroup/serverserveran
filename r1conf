@@ -1,6 +1,6 @@
 server {
   listen	 80;
-  server_name  domainsempak.net;
+  server_name  domainsempak.net admin.domainsempak.net;
   root         /var/www/html/block-r1/sempak/public;
 
   client_max_body_size 20M;
