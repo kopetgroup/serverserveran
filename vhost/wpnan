@@ -1,0 +1,7 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@<kopet>
+    DocumentRoot /home/wp/<kopet>
+    ServerName <kopet>
+    ErrorLog /dev/null
+    CustomLog /dev/null common
+</VirtualHost>
